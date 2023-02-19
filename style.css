@@ -245,6 +245,10 @@ p:last-child{
   background: #0B0B0B;
   color: #fff;
   position: relative;
+  transition: 0.3s;
+}
+.input-x-submit:hover {
+  background: #a0090b;
 }
 .input-x-submit::before {
   --inside: 16px;
