@@ -227,6 +227,9 @@ p:last-child{
   line-height: 1.3;
   text-align: center;
 }
+.input-x::placeholder {
+  color: #fff;
+}
 .input-x-submit {
   margin-top: 42px;
   height: 153px;
