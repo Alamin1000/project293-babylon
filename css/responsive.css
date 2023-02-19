@@ -1,0 +1,278 @@
+
+
+@media (max-width: 1799px) {
+    .hero__form__outer {
+        padding: 40px 100px;
+    }
+    .hero__image {
+        height: 800px;
+    }
+    .hero__form__title h2 {
+        font-size: 60px;
+        margin: 0 0 25px;
+    }
+    .hero__form__title h4 {
+        font-size: 32px;
+    }
+    .hero__form__title {
+        margin: 0 0 55px;
+    }
+    .hero-logo {
+        width: 180px;
+        top: 27px;
+        right: 21px;
+    }
+    .input-x {
+        height: 60px;
+        padding: 8px 20px;
+        font-size: 28px;
+    }
+    .single-input-x {
+        margin: 0 0 21px;
+        width: 100%;
+    }
+    .input-x-submit::before {
+        --inside: 11px;
+    }
+    .input-x-submit {
+        margin-top: 30px;
+        height: 115px;
+        font-size: 33px;
+    }
+
+
+    .welcome-section {
+        padding: 350px 0 300px;
+    }
+    .welcome-section__title h2 {
+        font-size: 68px;
+    }
+    .welcome-section__title p {
+        font-size: 30px;
+    }
+
+    .testimonial-section__title h3 {
+        font-size: 37px;
+    }
+    .testimonial-section__title {
+        margin: 0 0 50px;
+    }
+    .testimonial__single p {
+        font-size: 25px;
+        margin: 0 0 30px;
+    }
+    .testimonial__single {
+        padding: 30px 34px;
+    }
+    .testimonial__single h4 {
+        font-size: 25px;
+        margin: auto 0 0;
+    }
+    .testimonials-wrapper {
+        --bs-gutter-x: 55px;
+        --bs-gutter-y: var(--bs-gutter-x);
+    }
+    .testimonial-section {
+        padding: 0 0 330px;
+    }
+
+    .copy-right {
+        font-size: 22px;
+    }
+    .copy-right .copy-right-logo {
+        width: 154px;
+        margin: 0 10px 0 0;
+    }
+
+
+}
+
+
+@media (max-width: 1399px) {
+    .hero__form__outer {
+        padding: 40px 60px;
+    }
+}
+
+
+@media (max-width: 1199px) {
+    .hero__image {
+        height: 1084px;
+    }
+    .hero-logo {
+        width: 260px;
+        top: 37px;
+        right: 32px;
+    }
+
+    .hero__form {
+        max-width: 588px;
+    }
+    .hero__form__title h2 {
+        font-size: 74px;
+        margin: 0 0 27px;
+    }
+    .hero__form__title h4 {
+        font-size: 42px;
+    }
+    .input-x {
+        height: 74px;
+        padding: 10px 30px;
+        font-size: 42px;
+    }
+    .hero__form__title {
+        margin: 0 0 65px;
+    }
+    .hero__form__outer {
+        padding: 75px 0 64px;
+    }
+    .input-x-submit {
+        margin-top: 40px;
+        height: 150px;
+        font-size: 48px;
+    }
+
+
+    .welcome-section__title h2 {
+        font-size: 53px;
+    }
+    .welcome-section__title p {
+        font-size: 24px;
+    }
+    .welcome-section {
+        padding: 510px 0 470px;
+    }
+
+
+    .testimonial-section__title h3 {
+        font-size: 50px;
+    }
+    .testimonial-section__title {
+        margin: 0 0 65px;
+    }
+    .testimonial__single p {
+        font-size: 32px;
+        margin: 0 0 35px;
+    }
+    .testimonial__single h4 {
+        font-size: 32px;
+    }
+    .testimonial__single {
+        padding: 40px 44px;
+    }
+    .testimonials-wrapper {
+        --bs-gutter-x: 75px;
+    }
+    .testimonial-section {
+        padding: 0 0 555px;
+    }
+    
+
+    .copy-right {
+        font-size: 26px;
+    }
+}
+
+
+@media (max-width: 991px) {
+
+}
+
+
+@media (max-width: 768px) {
+    .hero__image {
+        height: 424px;
+    }
+    .hero-logo {
+        width: 104px;
+        top: 14px;
+        right: 12px;
+    }
+    .hero__form {
+        max-width: 230px;
+    }
+    .hero__form__title h2 {
+        font-size: 29px;
+        margin: 0 0 13px;
+    }
+    .hero__form__title h4 {
+        font-size: 16px;
+    }
+    .input-x {
+        height: 30px;
+        padding: 4px 15px;
+        font-size: 16px;
+        border-width: 1px;
+    }
+    .single-input-x {
+        margin: 0 0 8px;
+    }
+    .hero__form__title {
+        margin: 0 0 35px;
+    }
+    .input-x-submit {
+        margin-top: 16px;
+        height: 60px;
+        font-size: 18.5px;
+    }
+    .input-x-submit::before {
+        --inside: 7px;
+        border-width: 1px;
+    }
+    .hero__form__outer {
+        padding: 30px 0 24px;
+    }
+
+
+    .welcome-section__title h2 {
+        font-size: 21px;
+    }
+    .welcome-section__title p {
+        font-size: 9.5px;
+    }
+    .welcome-section {
+        padding: 200px 0 185px;
+    }
+
+    .testimonial-section__title h3 {
+        font-size: 19.5px;
+    }
+    .testimonial-section__title {
+        margin: 0 0 35px;
+    }
+    .testimonial__single p {
+        font-size: 12.5px;
+        margin: 0 0 15px;
+    }
+    .testimonial__single h4 {
+        font-size: 12.5px;
+    }
+    .testimonial__single {
+        padding: 15px 17px;
+        border-width: 1px;
+    }
+    .testimonials-wrapper {
+        --bs-gutter-x: 30px;
+    }
+    .testimonial-section {
+        padding: 0 0 215px;
+    }
+
+    .copy-right {
+        font-size: 10.5px;
+    }
+    .copy-right .copy-right-logo {
+        width: 65px;
+        margin: 0 6px 0 0;
+    }
+}
+
+
+@media (max-width: 575px) {
+ 
+}
+
+
+@media (max-width: 390px) {
+ 
+}
